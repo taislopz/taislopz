@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tais! 
-- 👀 I am a data Analyst with 4 years of experience providing service and solutions in support of organization goals and objectives.
-- 🌱 I’m currently learning webdesign 
-- 💞️ I’m enjoy playing violin, reading, drinking coffee, dancing and hanging with my dog. 
+- 👋 Hi, I’m Taïs Lopez! 
+- 👀 I am a Data Enginner with 5 years of experience providing service and solutions in support of organization goals and objectives.
+- 🌱 I’m currenty living in Lisbon - PT 
+- 💞️ I like playing tennis, reading, eating healthy, exercising and going out with my friends.
 - 📫 How to reach me lopztais@gmail.com
 
 <!---
